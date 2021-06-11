@@ -25,14 +25,4 @@ Who we are?
 
 We (learnitguide.net) provide you all complete step by step procedures, How to, Installations, configurations, Implementations, documentations, on-line trainings, easy guides on Linux, Cloud Computing, Openstack, Puppet, Chef, Ansible, Devops, Docker, Kubernetes, Linux clusters, VCS Cluster, Virtualizations and other technologies
 
-For more updates, stay connect with us on
 
-Youtube Channel : https://www.youtube.com/learnitguide
-
-Facebook : http://www.facebook.com/learnitguide
-
-Twitter : http://www.twitter.com/learnitguide
-
-Telegram : https://t.me/learnitguidetutorials
-
-Visit our Website : https://www.learnitguide.net
